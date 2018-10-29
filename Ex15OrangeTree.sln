@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex15OrangeTree", "Ex15OrangeTree\Ex15OrangeTree.csproj", "{E8982113-B850-4370-9683-8CA259636AF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex15OrangeTreeTest", "UnitTestProject1\Ex15OrangeTreeTest.csproj", "{EA76A0C4-903E-4BB8-8B0B-EABD0D5A76DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E8982113-B850-4370-9683-8CA259636AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8982113-B850-4370-9683-8CA259636AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8982113-B850-4370-9683-8CA259636AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA76A0C4-903E-4BB8-8B0B-EABD0D5A76DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA76A0C4-903E-4BB8-8B0B-EABD0D5A76DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA76A0C4-903E-4BB8-8B0B-EABD0D5A76DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA76A0C4-903E-4BB8-8B0B-EABD0D5A76DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
